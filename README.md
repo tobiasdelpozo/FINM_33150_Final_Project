@@ -1,3 +1,4 @@
+## Cupid: Pairs Trading for Fun and Profit
 ### FINM 33150 Final Project
 Final Project for Quantitative Trading Strategies (FINM 33150). 
 
